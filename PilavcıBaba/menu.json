@@ -1,0 +1,27 @@
+{
+  "yiyecekler": [
+     { "ad": "Kaşarlı Tost", "aciklama": "Yarım ekmek - Kaşar peyniri, ekmek", "fiyat": "90₺" },
+     { "ad": "Karışık Tost", "aciklama": "Yarım ekmek - Kaşar, salam, sucuk, ekmek", "fiyat": "100₺" },
+     { "ad": "Baba Tost", "aciklama": "Yarım ekmek - Kaşar, salam, sucuk, sosis, ekmek", "fiyat": "200₺" },
+     { "ad": "Tavuklu Pilav", "aciklama": "1 porsiyon - Tavuk eti, pilav, baharat", "fiyat": "150₺" },
+     { "ad": "Tavuklu Tantuni", "aciklama": "1 dürüm - Tavuk eti, lavaş, baharat", "fiyat": "170₺" },
+     { "ad": "Kumru", "aciklama": "1 adet - Sosis, salam, sucuk, kaşar, ekmek", "fiyat": "130₺" },
+     { "ad": "Köfte", "aciklama": "1 porsiyon - Dana köfte, ekmek, baharat", "fiyat": "150₺" },
+     { "ad": "Şinitzel", "aciklama": "1 porsiyon - Tavuk şinitzel, ekmek, baharat", "fiyat": "150₺" },
+     { "ad": "Patso", "aciklama": "Yarım ekmek - Patates kızartması, ekmek, ketçap, mayonez", "fiyat": "100₺" }
+  ],
+  "icecekler": [
+  { "ad": "Meyve Suyu", "aciklama": "200ml.", "fiyat": "20₺" },
+  { "ad": "Kola", "aciklama": "250ml.", "fiyat": "40₺" },
+  { "ad": "Gazoz", "aciklama": "250ml.", "fiyat": "35₺" },
+  { "ad": "Frutti", "aciklama": "250ml.", "fiyat": "35₺" },
+  { "ad": "Meyveli Soda", "aciklama": "200ml.", "fiyat": "25₺" },
+  { "ad": "Sade Soda", "aciklama": "200ml.", "fiyat": "20₺" },
+  { "ad": "Ayran", "aciklama": "200ml.", "fiyat": "20₺" },
+  { "ad": "Su", "aciklama": "500ml.", "fiyat": "10₺" },
+  { "ad": "Limonata", "aciklama": "200ml.", "fiyat": "35₺" },
+  { "ad": "Çay", "aciklama": "Çay bardağı.", "fiyat": "20₺" },
+  { "ad": "Kahve", "aciklama": "Kupa kahve", "fiyat": "30₺" },
+  { "ad": "Türk Kahvesi", "aciklama": "Fincan Türk kahvesi", "fiyat": "50₺" }
+  ]
+}

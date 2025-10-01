@@ -1,0 +1,22 @@
+/* Ana stil dosyası. index.html'den taşınan stiller buraya eklenecek. */
+
+body {
+  min-height: 100vh;
+  font-family: "Lato", sans-serif;
+  background: url("../img/background/full-bg-c.jpg") no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-size: cover;
+    background-position: center 70%;
+  }
+}
+
+@media (min-width: 768px) {
+  #menuPanel {
+    max-width: 66vw !important;
+  }
+}
