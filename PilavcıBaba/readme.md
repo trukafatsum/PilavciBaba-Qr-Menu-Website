@@ -1,19 +1,16 @@
 # Solution: Pilavcı Baba  QR Menu (Website)
 
----
 
 
 
 ## Pilavcı Baba kimdir?
 
----
 
 Pilavcı Baba, Samsun İlkadım'da Güzel Sanatlar tramvay durağı yakınında yer alan Yiyecek & İçecek işletmelerinden biridir.
 
 
 ## Çözüm Genel Bakış
 
----
 
 **Pilavcı Baba QR Menu (Website) Çözümü**, temelde HTML5 (işaretleme diline) dayalı geliştirilen sayfa yapısında Bootstrap.css, Animate.css kütüphanelerinden aldığı stillendirmelerle ve JavaScript ile dinamik (hareketli), responsive bir web arayüzü geliştirilmiştir.
 
@@ -30,7 +27,6 @@ Pilavcı Baba, Samsun İlkadım'da Güzel Sanatlar tramvay durağı yakınında 
 
 ## Kullanılan Teknolojiler
 
----
 
 * HTML5
 * Bootstrap & Animate CSS Kütüphaneleri
@@ -46,7 +42,6 @@ Süreçte JSON ve JavaScript'e dair henüz bilgim olmadığı için Github Copil
 
 ## Mevcut İlerleme
 
----
 
 * İşletmenin menüsü, konumu ve iletişim bilgileri güncel olarak revize edilmiştir.
 * Google İşletme Hesabı oluşturulmuştur.
@@ -57,7 +52,6 @@ Süreçte JSON ve JavaScript'e dair henüz bilgim olmadığı için Github Copil
 
 ## Dökümantasyon ve Görseller
 
----
 
 <img src="./docs/portfolioPilavcibaba.png"/>
 
@@ -71,4 +65,5 @@ Süreçte JSON ve JavaScript'e dair henüz bilgim olmadığı için Github Copil
 
 > Tasarlanmış bir işletme logosu olmadığı için, favicon eklenememiştir.
 > Gelecekte logo tasarlanırsa siteyi temsilen eklenebilir ve revize edilebilir.
+
 
